@@ -1,0 +1,45 @@
+[
+ {
+ "placeholder":"Enter IRC link (Example: irc.xshellz.com)",
+ "format":"string",
+ "type": "text",
+ "isMandatory": true,
+ "name": "irchost"
+ },
+ {
+ "placeholder":"Enter Oper Username",
+ "format":"string",
+ "type": "text",
+ "isMandatory": true,
+ "name": "operuser"
+ },
+ {
+ "placeholder":"Enter Oper Password",
+ "format":"string",
+ "type": "password",
+ "isMandatory": true,
+ "name": "operpass"
+ },
+ {
+ "placeholder":"Enter IRC IP",
+ "format":"string",
+ "type": "text",
+ "isMandatory": true,
+ "name": "ircip"
+ },
+ {
+ "placeholder":"Enter IRC domain (Example: xshellz.com)",
+ "format":"string",
+ "type": "text",
+ "isMandatory": true,
+ "name": "domain"
+ },
+ {
+ "placeholder":"Launch UnrealIRCd-4 automatically",
+ "format":"button",
+ "type": "submit",
+ "isMandatory": "true",
+ "name" : "submit",
+ "value": "Install UnrealIRCd now"
+ }
+]
