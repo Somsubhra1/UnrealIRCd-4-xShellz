@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 
-# Anope provision script, written by Som
+# UnrealIRCd provision script, written by Som
 set -e
 set -u
 
